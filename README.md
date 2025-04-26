@@ -2,10 +2,6 @@
 
 A Flask web application that provides a consolidated view of academic results for students of NRIIT.
 
-## Live Demo
-
-The application is deployed and can be accessed at:
-https://nriit-exam-result-scrapper.onrender.com/
 
 ## Installation
 
@@ -80,3 +76,6 @@ nriit_results_app/
 - Requests
 - BeautifulSoup4
 - Internet connection to fetch results from the NRIIT server
+
+## Note
+This is version 1.0 of the application. An improved version 2.0 with additional features like displaying remaining supplies, CGPA/SGPA calculations, and support for multiple regulations and batches is available at: https://github.com/ejjadaakhil-13/B.TECH_RESULT_SCRAPPER_2.0
